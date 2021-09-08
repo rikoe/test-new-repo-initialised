@@ -1,3 +1,4 @@
 # test-new-repo-initialised
 
-hello world
+
+hello from GitHub
